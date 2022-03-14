@@ -7,7 +7,7 @@ public void cost() {
 }
 public void speed() {
 
-System.out.println("120km");
+System.out.println("1200km");
 }
 public static void main(String[] args) {
 	ktm b=new ktm();
